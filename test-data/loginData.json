@@ -1,0 +1,7 @@
+{
+    "validUser": "standard_user", "validPassword" :"secret_sauce",
+    "product":"Sauce Labs Backpack",
+    "invalidUser": "WrongUser", "invalidPassword": "wrongPassword", 
+    "FirstName": "Shabeeha", "LastName": "Hind", 
+    "ZipCode": "676304"
+}
