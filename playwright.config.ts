@@ -17,3 +17,5 @@ export default defineConfig({
   ],
 
 });
+//Learning GitHub for QA assessments.
+//Practicing API testing and manual testing.
